@@ -1,5 +1,5 @@
 /*  simple sketch to test the basic functionality of 
- *  Senseair s8 sensor attached to ESP32
+ *  Senseair s8 and S88 sensor attached to ESP32
  *  based on https://github.com/liutyi/esp32-oled-senseair/
 */
 
